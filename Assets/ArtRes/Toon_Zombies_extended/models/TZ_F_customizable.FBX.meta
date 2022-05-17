@@ -1,0 +1,1257 @@
+fileFormatVersion: 2
+guid: f3742442d8b0fd74db5f94dd04b2ac4e
+timeCreated: 1530503633
+licenseType: Store
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Bip001
+    100002: Bip001 Footsteps
+    100004: Bip001 Head
+    100006: Bip001 HeadNub
+    100008: Bip001 L Calf
+    100010: Bip001 L Clavicle
+    100012: Bip001 L Finger0
+    100014: Bip001 L Finger0Nub
+    100016: Bip001 L Foot
+    100018: Bip001 L Forearm
+    100020: Bip001 L Hand
+    100022: Bip001 L Thigh
+    100024: Bip001 L Toe0
+    100026: Bip001 L Toe0Nub
+    100028: Bip001 L UpperArm
+    100030: Bip001 Neck
+    100032: Bip001 Pelvis
+    100034: Bip001 Ponytail1
+    100036: Bip001 Ponytail1Nub
+    100038: Bip001 R Calf
+    100040: Bip001 R Clavicle
+    100042: Bip001 R Finger0
+    100044: Bip001 R Finger0Nub
+    100046: Bip001 R Foot
+    100048: Bip001 R Forearm
+    100050: Bip001 R Hand
+    100052: Bip001 R Thigh
+    100054: Bip001 R Toe0
+    100056: Bip001 R Toe0Nub
+    100058: Bip001 R UpperArm
+    100060: Bip001 Spine
+    100062: //RootNode
+    100064: Zombie_03_body
+    100066: Zombie_03_head
+    100068: Zombie_01_body
+    100070: Zombie_01_head
+    100072: TZ_M_body_A
+    100074: TZ_M_body_B
+    100076: TZ_M_body_C
+    100078: TZ_M_body_D
+    100080: TZ_M_body_E
+    100082: TZ_M_body_F
+    100084: TZ_M_body_G
+    100086: TZ_M_body_H
+    100088: TZ_M_body_I
+    100090: TZ_M_body_J
+    100092: TZ_M_body_K
+    100094: TZ_M_body_L
+    100096: TZ_M_body_M
+    100098: TZ_M_body_N
+    100100: TZ_M_body_O
+    100102: TZ_M_body_P
+    100104: TZ_M_body_Q
+    100106: TZ_M_head_A
+    100108: TZ_M_head_B
+    100110: TZ_M_head_C
+    100112: TZ_M_head_D
+    100114: TZ_M_head_E
+    100116: TZ_M_head_F
+    100118: TZ_M_head_G
+    100120: TZ_M_head_H
+    100122: TZ_M_head_I
+    100124: TZ_M_head_J
+    100126: TZ_M_head_K
+    100128: TZ_M_head_L
+    100130: TZ_M_legs_A
+    100132: TZ_M_legs_B
+    100134: TZ_M_legs_C
+    100136: TZ_M_legs_D
+    100138: TZ_M_legs_E
+    100140: TZ_M_legs_F
+    100142: TZ_M_legs_G
+    100144: TZ_M_legs_H
+    100146: TZ_M_legs_I
+    100148: TZ_M_legs_J
+    100150: TZ_M_legs_K
+    100152: TZ_M_legs_L
+    100154: TZ_M_legs_M
+    100156: TZ_M_legs_N
+    100158: TZ_M_body_01
+    100160: TZ_M_body_02
+    100162: TZ_M_body_03
+    100164: TZ_M_body_04
+    100166: TZ_M_body_05
+    100168: TZ_M_body_06
+    100170: TZ_M_body_07
+    100172: TZ_M_body_08
+    100174: TZ_M_body_09
+    100176: TZ_M_body_10
+    100178: TZ_M_body_11
+    100180: TZ_M_body_12
+    100182: TZ_M_body_13
+    100184: TZ_M_body_14
+    100186: TZ_M_body_15
+    100188: TZ_M_body_16
+    100190: TZ_M_body_17
+    100192: TZ_M_body_18
+    100194: TZ_M_body_19
+    100196: TZ_M_body_20
+    100198: TZ_M_body_21
+    100200: TZ_M_body_22
+    100202: TZ_M_body_23
+    100204: TZ_M_body_24
+    100206: TZ_M_body_25
+    100208: TZ_M_body_26
+    100210: TZ_M_head_01
+    100212: TZ_M_head_02
+    100214: TZ_M_head_03
+    100216: TZ_M_head_04
+    100218: TZ_M_head_05
+    100220: TZ_M_head_06
+    100222: TZ_M_head_07
+    100224: TZ_M_head_08
+    100226: TZ_M_head_09
+    100228: TZ_M_head_10
+    100230: TZ_M_head_11
+    100232: TZ_M_head_12
+    100234: TZ_M_head_13
+    100236: TZ_M_head_14
+    100238: TZ_M_head_15
+    100240: TZ_M_head_16
+    100242: TZ_M_head_17
+    100244: TZ_M_head_18
+    100246: TZ_M_head_19
+    100248: TZ_M_head_20
+    100250: TZ_M_head_21
+    100252: TZ_M_head_22
+    100254: TZ_M_legs_01
+    100256: TZ_M_legs_02
+    100258: TZ_M_legs_03
+    100260: TZ_M_legs_04
+    100262: TZ_M_legs_05
+    100264: TZ_M_legs_06
+    100266: TZ_M_legs_07
+    100268: TZ_M_legs_08
+    100270: TZ_M_legs_09
+    100272: TZ_M_legs_10
+    100274: TZ_M_legs_11
+    100276: TZ_M_legs_12
+    100278: TZ_M_legs_13
+    100280: TZ_M_legs_14
+    100282: TZ_M_legs_15
+    100284: TZ_M_legs_16
+    100286: TZ_M_legs_17
+    100288: TZ_M_legs_18
+    100290: TZ_F_body_01
+    100292: TZ_F_body_02
+    100294: TZ_F_body_03
+    100296: TZ_F_body_04
+    100298: TZ_F_body_05
+    100300: TZ_F_body_06
+    100302: TZ_F_body_07
+    100304: TZ_F_head_01
+    100306: TZ_F_head_02
+    100308: TZ_F_head_03
+    100310: TZ_F_head_04
+    100312: TZ_F_head_05
+    100314: TZ_F_head_06
+    100316: TZ_F_head_07
+    100318: TZ_F_head_08
+    100320: TZ_F_head_09
+    100322: TZ_F_head_10
+    100324: TZ_F_head_11
+    100326: TZ_F_head_12
+    100328: TZ_F_head_13
+    100330: TZ_F_head_14
+    100332: TZ_F_head_15
+    100334: TZ_F_legs_01
+    100336: TZ_F_legs_02
+    100338: TZ_F_legs_03
+    100340: TZ_F_legs_04
+    100342: TZ_F_legs_05
+    100344: TZ_F_legs_06
+    100346: TZ_F_legs_07
+    100348: TZ_F_legs_08
+    100350: TZ_F_legs_09
+    100352: TZ_F_legs_10
+    100354: TZ_F_legs_11
+    100356: TZ_F_legs_12
+    100358: TZ_F_legs_13
+    100360: TZ_F_legs_14
+    400000: Bip001
+    400002: Bip001 Footsteps
+    400004: Bip001 Head
+    400006: Bip001 HeadNub
+    400008: Bip001 L Calf
+    400010: Bip001 L Clavicle
+    400012: Bip001 L Finger0
+    400014: Bip001 L Finger0Nub
+    400016: Bip001 L Foot
+    400018: Bip001 L Forearm
+    400020: Bip001 L Hand
+    400022: Bip001 L Thigh
+    400024: Bip001 L Toe0
+    400026: Bip001 L Toe0Nub
+    400028: Bip001 L UpperArm
+    400030: Bip001 Neck
+    400032: Bip001 Pelvis
+    400034: Bip001 Ponytail1
+    400036: Bip001 Ponytail1Nub
+    400038: Bip001 R Calf
+    400040: Bip001 R Clavicle
+    400042: Bip001 R Finger0
+    400044: Bip001 R Finger0Nub
+    400046: Bip001 R Foot
+    400048: Bip001 R Forearm
+    400050: Bip001 R Hand
+    400052: Bip001 R Thigh
+    400054: Bip001 R Toe0
+    400056: Bip001 R Toe0Nub
+    400058: Bip001 R UpperArm
+    400060: Bip001 Spine
+    400062: //RootNode
+    400064: Zombie_03_body
+    400066: Zombie_03_head
+    400068: Zombie_01_body
+    400070: Zombie_01_head
+    400072: TZ_M_body_A
+    400074: TZ_M_body_B
+    400076: TZ_M_body_C
+    400078: TZ_M_body_D
+    400080: TZ_M_body_E
+    400082: TZ_M_body_F
+    400084: TZ_M_body_G
+    400086: TZ_M_body_H
+    400088: TZ_M_body_I
+    400090: TZ_M_body_J
+    400092: TZ_M_body_K
+    400094: TZ_M_body_L
+    400096: TZ_M_body_M
+    400098: TZ_M_body_N
+    400100: TZ_M_body_O
+    400102: TZ_M_body_P
+    400104: TZ_M_body_Q
+    400106: TZ_M_head_A
+    400108: TZ_M_head_B
+    400110: TZ_M_head_C
+    400112: TZ_M_head_D
+    400114: TZ_M_head_E
+    400116: TZ_M_head_F
+    400118: TZ_M_head_G
+    400120: TZ_M_head_H
+    400122: TZ_M_head_I
+    400124: TZ_M_head_J
+    400126: TZ_M_head_K
+    400128: TZ_M_head_L
+    400130: TZ_M_legs_A
+    400132: TZ_M_legs_B
+    400134: TZ_M_legs_C
+    400136: TZ_M_legs_D
+    400138: TZ_M_legs_E
+    400140: TZ_M_legs_F
+    400142: TZ_M_legs_G
+    400144: TZ_M_legs_H
+    400146: TZ_M_legs_I
+    400148: TZ_M_legs_J
+    400150: TZ_M_legs_K
+    400152: TZ_M_legs_L
+    400154: TZ_M_legs_M
+    400156: TZ_M_legs_N
+    400158: TZ_M_body_01
+    400160: TZ_M_body_02
+    400162: TZ_M_body_03
+    400164: TZ_M_body_04
+    400166: TZ_M_body_05
+    400168: TZ_M_body_06
+    400170: TZ_M_body_07
+    400172: TZ_M_body_08
+    400174: TZ_M_body_09
+    400176: TZ_M_body_10
+    400178: TZ_M_body_11
+    400180: TZ_M_body_12
+    400182: TZ_M_body_13
+    400184: TZ_M_body_14
+    400186: TZ_M_body_15
+    400188: TZ_M_body_16
+    400190: TZ_M_body_17
+    400192: TZ_M_body_18
+    400194: TZ_M_body_19
+    400196: TZ_M_body_20
+    400198: TZ_M_body_21
+    400200: TZ_M_body_22
+    400202: TZ_M_body_23
+    400204: TZ_M_body_24
+    400206: TZ_M_body_25
+    400208: TZ_M_body_26
+    400210: TZ_M_head_01
+    400212: TZ_M_head_02
+    400214: TZ_M_head_03
+    400216: TZ_M_head_04
+    400218: TZ_M_head_05
+    400220: TZ_M_head_06
+    400222: TZ_M_head_07
+    400224: TZ_M_head_08
+    400226: TZ_M_head_09
+    400228: TZ_M_head_10
+    400230: TZ_M_head_11
+    400232: TZ_M_head_12
+    400234: TZ_M_head_13
+    400236: TZ_M_head_14
+    400238: TZ_M_head_15
+    400240: TZ_M_head_16
+    400242: TZ_M_head_17
+    400244: TZ_M_head_18
+    400246: TZ_M_head_19
+    400248: TZ_M_head_20
+    400250: TZ_M_head_21
+    400252: TZ_M_head_22
+    400254: TZ_M_legs_01
+    400256: TZ_M_legs_02
+    400258: TZ_M_legs_03
+    400260: TZ_M_legs_04
+    400262: TZ_M_legs_05
+    400264: TZ_M_legs_06
+    400266: TZ_M_legs_07
+    400268: TZ_M_legs_08
+    400270: TZ_M_legs_09
+    400272: TZ_M_legs_10
+    400274: TZ_M_legs_11
+    400276: TZ_M_legs_12
+    400278: TZ_M_legs_13
+    400280: TZ_M_legs_14
+    400282: TZ_M_legs_15
+    400284: TZ_M_legs_16
+    400286: TZ_M_legs_17
+    400288: TZ_M_legs_18
+    400290: TZ_F_body_01
+    400292: TZ_F_body_02
+    400294: TZ_F_body_03
+    400296: TZ_F_body_04
+    400298: TZ_F_body_05
+    400300: TZ_F_body_06
+    400302: TZ_F_body_07
+    400304: TZ_F_head_01
+    400306: TZ_F_head_02
+    400308: TZ_F_head_03
+    400310: TZ_F_head_04
+    400312: TZ_F_head_05
+    400314: TZ_F_head_06
+    400316: TZ_F_head_07
+    400318: TZ_F_head_08
+    400320: TZ_F_head_09
+    400322: TZ_F_head_10
+    400324: TZ_F_head_11
+    400326: TZ_F_head_12
+    400328: TZ_F_head_13
+    400330: TZ_F_head_14
+    400332: TZ_F_head_15
+    400334: TZ_F_legs_01
+    400336: TZ_F_legs_02
+    400338: TZ_F_legs_03
+    400340: TZ_F_legs_04
+    400342: TZ_F_legs_05
+    400344: TZ_F_legs_06
+    400346: TZ_F_legs_07
+    400348: TZ_F_legs_08
+    400350: TZ_F_legs_09
+    400352: TZ_F_legs_10
+    400354: TZ_F_legs_11
+    400356: TZ_F_legs_12
+    400358: TZ_F_legs_13
+    400360: TZ_F_legs_14
+    4300000: Zombie_03_body
+    4300002: Zombie_03_head
+    4300004: Zombie_01_body
+    4300006: Zombie_01_head
+    4300008: TZ_M_legs_A
+    4300010: TZ_M_head_A
+    4300012: TZ_M_legs_E
+    4300014: TZ_M_head_J
+    4300016: TZ_M_legs_D
+    4300018: TZ_M_head_E
+    4300020: TZ_M_head_D
+    4300022: TZ_M_legs_B
+    4300024: TZ_M_head_F
+    4300026: TZ_M_legs_K
+    4300028: TZ_M_head_G
+    4300030: TZ_M_body_C
+    4300032: TZ_M_legs_C
+    4300034: TZ_M_head_C
+    4300036: TZ_M_head_B
+    4300038: TZ_M_head_I
+    4300040: TZ_M_head_K
+    4300042: TZ_M_legs_F
+    4300044: TZ_M_head_H
+    4300046: TZ_M_body_P
+    4300048: TZ_M_head_L
+    4300050: TZ_M_body_A
+    4300052: TZ_M_body_G
+    4300054: TZ_M_body_D
+    4300056: TZ_M_body_J
+    4300058: TZ_M_body_B
+    4300060: TZ_M_legs_I
+    4300062: TZ_M_body_K
+    4300064: TZ_M_body_F
+    4300066: TZ_M_body_N
+    4300068: TZ_M_body_H
+    4300070: TZ_M_body_I
+    4300072: TZ_M_body_O
+    4300074: TZ_M_body_M
+    4300076: TZ_M_body_Q
+    4300078: TZ_M_body_E
+    4300080: TZ_M_body_L
+    4300082: TZ_M_legs_G
+    4300084: TZ_M_legs_H
+    4300086: TZ_M_legs_J
+    4300088: TZ_M_legs_L
+    4300090: TZ_M_legs_M
+    4300092: TZ_M_legs_N
+    4300094: TZ_M_legs_01
+    4300096: TZ_M_head_01
+    4300098: TZ_M_legs_15
+    4300100: TZ_M_head_11
+    4300102: TZ_M_legs_04
+    4300104: TZ_M_head_05
+    4300106: TZ_M_legs_02
+    4300108: TZ_M_head_07
+    4300110: TZ_M_legs_11
+    4300112: TZ_M_head_08
+    4300114: TZ_M_body_03
+    4300116: TZ_M_legs_03
+    4300118: TZ_M_head_03
+    4300120: TZ_M_head_02
+    4300122: TZ_M_head_10
+    4300124: TZ_M_head_12
+    4300126: TZ_M_legs_06
+    4300128: TZ_M_head_09
+    4300130: TZ_M_body_16
+    4300132: TZ_M_head_13
+    4300134: TZ_M_body_01
+    4300136: TZ_M_body_07
+    4300138: TZ_M_body_04
+    4300140: TZ_M_body_10
+    4300142: TZ_M_body_02
+    4300144: TZ_M_legs_09
+    4300146: TZ_M_body_11
+    4300148: TZ_M_body_06
+    4300150: TZ_M_body_14
+    4300152: TZ_M_body_08
+    4300154: TZ_M_body_09
+    4300156: TZ_M_body_15
+    4300158: TZ_M_body_13
+    4300160: TZ_M_body_17
+    4300162: TZ_M_body_05
+    4300164: TZ_M_body_12
+    4300166: TZ_M_legs_07
+    4300168: TZ_M_legs_08
+    4300170: TZ_M_legs_10
+    4300172: TZ_M_legs_13
+    4300174: TZ_M_legs_14
+    4300176: TZ_M_legs_12
+    4300178: TZ_M_body_20
+    4300180: TZ_M_legs_05
+    4300182: TZ_M_legs_18
+    4300184: TZ_M_body_24
+    4300186: TZ_M_head_20
+    4300188: TZ_M_body_19
+    4300190: TZ_M_body_25
+    4300192: TZ_M_head_06
+    4300194: TZ_M_head_21
+    4300196: TZ_M_body_26
+    4300198: TZ_M_head_22
+    4300200: TZ_M_head_04
+    4300202: TZ_M_body_21
+    4300204: TZ_M_legs_16
+    4300206: TZ_M_body_22
+    4300208: TZ_M_body_23
+    4300210: TZ_M_head_19
+    4300212: TZ_M_legs_17
+    4300214: TZ_M_body_18
+    4300216: TZ_M_head_17
+    4300218: TZ_M_head_18
+    4300220: TZ_M_head_14
+    4300222: TZ_M_head_15
+    4300224: TZ_M_head_16
+    4300226: TZ_F_legs_03
+    4300228: TZ_F_legs_01
+    4300230: TZ_F_body_01
+    4300232: TZ_F_head_01
+    4300234: TZ_F_legs_09
+    4300236: TZ_F_head_02
+    4300238: TZ_F_body_03
+    4300240: TZ_F_legs_07
+    4300242: TZ_F_body_04
+    4300244: TZ_F_body_05
+    4300246: TZ_F_legs_08
+    4300248: TZ_F_body_06
+    4300250: TZ_F_head_12
+    4300252: TZ_F_head_13
+    4300254: TZ_F_body_07
+    4300256: TZ_F_head_14
+    4300258: TZ_F_body_02
+    4300260: TZ_F_legs_02
+    4300262: TZ_F_legs_04
+    4300264: TZ_F_legs_05
+    4300266: TZ_F_legs_06
+    4300268: TZ_F_legs_10
+    4300270: TZ_F_legs_11
+    4300272: TZ_F_legs_12
+    4300274: TZ_F_legs_13
+    4300276: TZ_F_legs_14
+    4300278: TZ_F_head_08
+    4300280: TZ_F_head_04
+    4300282: TZ_F_head_06
+    4300284: TZ_F_head_07
+    4300286: TZ_F_head_03
+    4300288: TZ_F_head_09
+    4300290: TZ_F_head_05
+    4300292: TZ_F_head_10
+    4300294: TZ_F_head_11
+    4300296: TZ_F_head_15
+    9500000: //RootNode
+    13700000: Zombie_03_body
+    13700002: Zombie_03_head
+    13700004: Zombie_01_body
+    13700006: Zombie_01_head
+    13700008: TZ_M_body_A
+    13700010: TZ_M_body_B
+    13700012: TZ_M_body_C
+    13700014: TZ_M_body_D
+    13700016: TZ_M_body_E
+    13700018: TZ_M_body_F
+    13700020: TZ_M_body_G
+    13700022: TZ_M_body_H
+    13700024: TZ_M_body_I
+    13700026: TZ_M_body_J
+    13700028: TZ_M_body_K
+    13700030: TZ_M_body_L
+    13700032: TZ_M_body_M
+    13700034: TZ_M_body_N
+    13700036: TZ_M_body_O
+    13700038: TZ_M_body_P
+    13700040: TZ_M_body_Q
+    13700042: TZ_M_head_A
+    13700044: TZ_M_head_B
+    13700046: TZ_M_head_C
+    13700048: TZ_M_head_D
+    13700050: TZ_M_head_E
+    13700052: TZ_M_head_F
+    13700054: TZ_M_head_G
+    13700056: TZ_M_head_H
+    13700058: TZ_M_head_I
+    13700060: TZ_M_head_J
+    13700062: TZ_M_head_K
+    13700064: TZ_M_head_L
+    13700066: TZ_M_legs_A
+    13700068: TZ_M_legs_B
+    13700070: TZ_M_legs_C
+    13700072: TZ_M_legs_D
+    13700074: TZ_M_legs_E
+    13700076: TZ_M_legs_F
+    13700078: TZ_M_legs_G
+    13700080: TZ_M_legs_H
+    13700082: TZ_M_legs_I
+    13700084: TZ_M_legs_J
+    13700086: TZ_M_legs_K
+    13700088: TZ_M_legs_L
+    13700090: TZ_M_legs_M
+    13700092: TZ_M_legs_N
+    13700094: TZ_M_body_01
+    13700096: TZ_M_body_02
+    13700098: TZ_M_body_03
+    13700100: TZ_M_body_04
+    13700102: TZ_M_body_05
+    13700104: TZ_M_body_06
+    13700106: TZ_M_body_07
+    13700108: TZ_M_body_08
+    13700110: TZ_M_body_09
+    13700112: TZ_M_body_10
+    13700114: TZ_M_body_11
+    13700116: TZ_M_body_12
+    13700118: TZ_M_body_13
+    13700120: TZ_M_body_14
+    13700122: TZ_M_body_15
+    13700124: TZ_M_body_16
+    13700126: TZ_M_body_17
+    13700128: TZ_M_body_18
+    13700130: TZ_M_body_19
+    13700132: TZ_M_body_20
+    13700134: TZ_M_body_21
+    13700136: TZ_M_body_22
+    13700138: TZ_M_body_23
+    13700140: TZ_M_body_24
+    13700142: TZ_M_body_25
+    13700144: TZ_M_body_26
+    13700146: TZ_M_head_01
+    13700148: TZ_M_head_02
+    13700150: TZ_M_head_03
+    13700152: TZ_M_head_04
+    13700154: TZ_M_head_05
+    13700156: TZ_M_head_06
+    13700158: TZ_M_head_07
+    13700160: TZ_M_head_08
+    13700162: TZ_M_head_09
+    13700164: TZ_M_head_10
+    13700166: TZ_M_head_11
+    13700168: TZ_M_head_12
+    13700170: TZ_M_head_13
+    13700172: TZ_M_head_14
+    13700174: TZ_M_head_15
+    13700176: TZ_M_head_16
+    13700178: TZ_M_head_17
+    13700180: TZ_M_head_18
+    13700182: TZ_M_head_19
+    13700184: TZ_M_head_20
+    13700186: TZ_M_head_21
+    13700188: TZ_M_head_22
+    13700190: TZ_M_legs_01
+    13700192: TZ_M_legs_02
+    13700194: TZ_M_legs_03
+    13700196: TZ_M_legs_04
+    13700198: TZ_M_legs_05
+    13700200: TZ_M_legs_06
+    13700202: TZ_M_legs_07
+    13700204: TZ_M_legs_08
+    13700206: TZ_M_legs_09
+    13700208: TZ_M_legs_10
+    13700210: TZ_M_legs_11
+    13700212: TZ_M_legs_12
+    13700214: TZ_M_legs_13
+    13700216: TZ_M_legs_14
+    13700218: TZ_M_legs_15
+    13700220: TZ_M_legs_16
+    13700222: TZ_M_legs_17
+    13700224: TZ_M_legs_18
+    13700226: TZ_F_body_01
+    13700228: TZ_F_body_02
+    13700230: TZ_F_body_03
+    13700232: TZ_F_body_04
+    13700234: TZ_F_body_05
+    13700236: TZ_F_body_06
+    13700238: TZ_F_body_07
+    13700240: TZ_F_head_01
+    13700242: TZ_F_head_02
+    13700244: TZ_F_head_03
+    13700246: TZ_F_head_04
+    13700248: TZ_F_head_05
+    13700250: TZ_F_head_06
+    13700252: TZ_F_head_07
+    13700254: TZ_F_head_08
+    13700256: TZ_F_head_09
+    13700258: TZ_F_head_10
+    13700260: TZ_F_head_11
+    13700262: TZ_F_head_12
+    13700264: TZ_F_head_13
+    13700266: TZ_F_head_14
+    13700268: TZ_F_head_15
+    13700270: TZ_F_legs_01
+    13700272: TZ_F_legs_02
+    13700274: TZ_F_legs_03
+    13700276: TZ_F_legs_04
+    13700278: TZ_F_legs_05
+    13700280: TZ_F_legs_06
+    13700282: TZ_F_legs_07
+    13700284: TZ_F_legs_08
+    13700286: TZ_F_legs_09
+    13700288: TZ_F_legs_10
+    13700290: TZ_F_legs_11
+    13700292: TZ_F_legs_12
+    13700294: TZ_F_legs_13
+    13700296: TZ_F_legs_14
+  materials:
+    importMaterials: 1
+    materialName: 1
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    human:
+    - boneName: Bip001 Pelvis
+      humanName: Hips
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Bip001 L Thigh
+      humanName: LeftUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Bip001 R Thigh
+      humanName: RightUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Bip001 L Calf
+      humanName: LeftLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Bip001 R Calf
+      humanName: RightLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Bip001 L Foot
+      humanName: LeftFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Bip001 R Foot
+      humanName: RightFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Bip001 Spine
+      humanName: Spine
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Bip001 Neck
+      humanName: Neck
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Bip001 Head
+      humanName: Head
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Bip001 L Clavicle
+      humanName: LeftShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Bip001 R Clavicle
+      humanName: RightShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Bip001 L UpperArm
+      humanName: LeftUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Bip001 R UpperArm
+      humanName: RightUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Bip001 L Forearm
+      humanName: LeftLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Bip001 R Forearm
+      humanName: RightLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Bip001 L Hand
+      humanName: LeftHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Bip001 R Hand
+      humanName: RightHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Bip001 L Toe0
+      humanName: LeftToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Bip001 R Toe0
+      humanName: RightToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Bip001 L Finger0
+      humanName: Left Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Bip001 R Finger0
+      humanName: Right Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Bip001 Ponytail1
+      humanName: Jaw
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    skeleton:
+    - name: TZ_F_customizable(Clone)
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Bip001
+      position: {x: 0, y: 0.75230575, z: -0.035138577}
+      rotation: {x: -0.50000036, y: 0.49999964, z: 0.49999964, w: 0.50000036}
+      scale: {x: 0.99999994, y: 0.99999994, z: 1}
+      transformModified: 1
+    - name: Bip001 Footsteps
+      position: {x: -0, y: 0, z: -0.7493525}
+      rotation: {x: 0, y: 0, z: -0.7071063, w: 0.70710725}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Bip001 Pelvis
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: -0.5, y: 0.5, z: 0.4999993, w: 0.5000007}
+      scale: {x: 1, y: 0.99999994, z: 0.99999994}
+      transformModified: 1
+    - name: Bip001 L Thigh
+      position: {x: 0.00000009689331, y: 0.00000014836787, z: 0.08258349}
+      rotation: {x: 0.0068716356, y: 0.9993154, z: 0.03619245, w: 0.003427711}
+      scale: {x: 0.99999994, y: 0.99999994, z: 1}
+      transformModified: 1
+    - name: Bip001 L Calf
+      position: {x: -0.36869863, y: 0, z: 0.000000006055832}
+      rotation: {x: -0.000000005789065, y: 0.0000000011406609, z: 0.004059659, w: 0.9999918}
+      scale: {x: 1.0000001, y: 1, z: 0.99999994}
+      transformModified: 1
+    - name: Bip001 L Foot
+      position: {x: -0.31245652, y: 0, z: -0.000000006055832}
+      rotation: {x: 0.036206756, y: 0.0032814373, z: -0.010928414, w: 0.9992792}
+      scale: {x: 1, y: 1.0000001, z: 0.99999994}
+      transformModified: 1
+    - name: Bip001 L Toe0
+      position: {x: -0.06832224, y: 0.09843618, z: 0.000000006055832}
+      rotation: {x: 0.000000015454312, y: -0.000000015454312, z: -0.7071068, w: 0.7071068}
+      scale: {x: 0.99999994, y: 1, z: 0.99999994}
+      transformModified: 1
+    - name: Bip001 L Toe0Nub
+      position: {x: -0.10814278, y: 0, z: 0}
+      rotation: {x: 9.553441e-16, y: 1.75553e-30, z: 1, w: -1.8375893e-15}
+      scale: {x: -0.99999994, y: -1, z: -0.99999994}
+      transformModified: 1
+    - name: Bip001 R Thigh
+      position: {x: -0.00000009689331, y: -0.00000008175373, z: -0.08258349}
+      rotation: {x: 0.006871587, y: 0.9993153, z: -0.036193848, w: -0.003429175}
+      scale: {x: 0.99999994, y: 1, z: 1.0000001}
+      transformModified: 1
+    - name: Bip001 R Calf
+      position: {x: -0.3686987, y: -0.000000006055832, z: 0.000000006055832}
+      rotation: {x: 2.1572709e-10, y: -0.0000000011632868, z: 0.0040596593, w: 0.9999918}
+      scale: {x: 1.0000002, y: 1.0000001, z: 1.0000001}
+      transformModified: 1
+    - name: Bip001 R Foot
+      position: {x: -0.31245652, y: 0, z: 0}
+      rotation: {x: -0.03620676, y: -0.0032815244, z: -0.01092841, w: 0.9992792}
+      scale: {x: 1.0000001, y: 1.0000001, z: 0.99999994}
+      transformModified: 1
+    - name: Bip001 R Toe0
+      position: {x: -0.06832224, y: 0.09843617, z: 0.000000006055832}
+      rotation: {x: -0.00000001545431, y: 0.00000001545431, z: -0.7071068, w: 0.7071068}
+      scale: {x: 0.99999994, y: 1, z: 0.99999994}
+      transformModified: 1
+    - name: Bip001 R Toe0Nub
+      position: {x: -0.10814278, y: 0, z: 0}
+      rotation: {x: 1.6970273e-30, y: -9.553415e-16, z: 1.776357e-15, w: 1}
+      scale: {x: 0.99999994, y: 1, z: 0.99999994}
+      transformModified: 1
+    - name: Bip001 Spine
+      position: {x: -0.11279127, y: 0.0010038934, z: 0.00000015328538}
+      rotation: {x: -0.000002080476, y: 0.000000693676, z: -0.000398159, w: 0.99999994}
+      scale: {x: 1, y: 0.99999994, z: 0.99999994}
+      transformModified: 1
+    - name: Bip001 L Clavicle
+      position: {x: -0.3423766, y: -0.000006482768, z: 0.050861843}
+      rotation: {x: -0.5843046, y: -0.030287944, z: 0.81078035, w: 0.017495869}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Bip001 L UpperArm
+      position: {x: -0.11810141, y: -0.000000003027916, z: 0}
+      rotation: {x: 0.032479692, y: 0.13829412, z: 0.030340733, w: 0.9893934}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1.0000001}
+      transformModified: 1
+    - name: Bip001 L Forearm
+      position: {x: -0.21536766, y: 0.000000006055832, z: 0}
+      rotation: {x: -0.00006157888, y: 0.0016466377, z: 0.03460453, w: 0.9993998}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Bip001 L Hand
+      position: {x: -0.25848347, y: -0.000000003027916, z: 0}
+      rotation: {x: -0.7067151, y: -0.012487206, z: -0.012477268, w: 0.7072781}
+      scale: {x: 1, y: 1.0000001, z: 1.0000001}
+      transformModified: 1
+    - name: Bip001 L Finger0
+      position: {x: -0.10064659, y: 0.0058674715, z: -0.00014335063}
+      rotation: {x: -0.0004981456, y: -0.00047059706, z: -0.10585653, w: 0.9943812}
+      scale: {x: 1.0000001, y: 1, z: 0.99999994}
+      transformModified: 1
+    - name: Bip001 L Finger0Nub
+      position: {x: -0.07459075, y: 0, z: 0}
+      rotation: {x: -0.0000000020954758, y: 0.0000000018626454, z: 0.0000000074505815,
+        w: 1}
+      scale: {x: 0.9999999, y: 1, z: 0.99999994}
+      transformModified: 1
+    - name: Bip001 Neck
+      position: {x: -0.40808457, y: -0.0067407344, z: -0.000000008677375}
+      rotation: {x: -8.1676094e-14, y: 0.00000034666022, z: -0.12498566, w: 0.99215853}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Bip001 Head
+      position: {x: -0.06615507, y: 0, z: 0}
+      rotation: {x: -1.2488449e-13, y: -0.00000015968267, z: 0.057573043, w: 0.9983413}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Bip001 HeadNub
+      position: {x: -0.15955023, y: 0, z: -4.620233e-14}
+      rotation: {x: 2.1316282e-14, y: -2.842171e-14, z: -0.000000007450581, w: 1}
+      scale: {x: 1, y: 1, z: 0.99999994}
+      transformModified: 1
+    - name: Bip001 Ponytail1
+      position: {x: 0.0041055633, y: 0.04687546, z: 0.000000006788693}
+      rotation: {x: 1.4863273e-12, y: 0.0000021421804, z: -0.77234703, w: 0.63520086}
+      scale: {x: 1, y: 1, z: 0.99999994}
+      transformModified: 1
+    - name: Bip001 Ponytail1Nub
+      position: {x: -0.09307845, y: 0, z: -3.6961864e-13}
+      rotation: {x: 0.7073882, y: -0.7068252, z: -0.0000009802252, w: -0.0000009810061}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Bip001 R Clavicle
+      position: {x: -0.3423766, y: -0.000006198144, z: -0.050861843}
+      rotation: {x: 0.58430284, y: 0.030285895, z: 0.8107817, w: 0.01749438}
+      scale: {x: 1.0000001, y: 1, z: 1}
+      transformModified: 1
+    - name: Bip001 R UpperArm
+      position: {x: -0.11810134, y: -0.000000003027916, z: 0}
+      rotation: {x: -0.032479405, y: -0.13829483, z: 0.030341068, w: 0.98939335}
+      scale: {x: 0.9999999, y: 1, z: 1}
+      transformModified: 1
+    - name: Bip001 R Forearm
+      position: {x: -0.21536776, y: 0, z: -0.00000009689331}
+      rotation: {x: 0.000061482184, y: -0.0016465911, z: 0.034604806, w: 0.9993998}
+      scale: {x: 1.0000001, y: 1, z: 0.99999994}
+      transformModified: 1
+    - name: Bip001 R Hand
+      position: {x: -0.2584834, y: -0.000000006055832, z: 0}
+      rotation: {x: 0.7067151, y: 0.012487196, z: -0.012477258, w: 0.7072781}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Bip001 R Finger0
+      position: {x: -0.10064657, y: 0.0058674715, z: 0.00014335063}
+      rotation: {x: 0.00049814733, y: 0.00047055597, z: -0.10585532, w: 0.99438137}
+      scale: {x: 1.0000002, y: 1.0000001, z: 1.0000001}
+      transformModified: 1
+    - name: Bip001 R Finger0Nub
+      position: {x: -0.07459075, y: 0, z: 0.000000006055832}
+      rotation: {x: 9.313226e-10, y: -0.0000000020954756, z: 1, w: 6.3183907e-17}
+      scale: {x: -1, y: -1.0000001, z: -1.0000001}
+      transformModified: 1
+    - name: TZ_F_body_01
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: TZ_F_body_02
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: TZ_F_body_03
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: TZ_F_body_04
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: TZ_F_body_05
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: TZ_F_body_06
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: TZ_F_body_07
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: TZ_F_head_01
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: TZ_F_head_02
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: TZ_F_head_03
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: TZ_F_head_04
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: TZ_F_head_05
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: TZ_F_head_06
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: TZ_F_head_07
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: TZ_F_head_08
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: TZ_F_head_09
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: TZ_F_head_10
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: TZ_F_head_11
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: TZ_F_head_12
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: TZ_F_head_13
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: TZ_F_head_14
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: TZ_F_head_15
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: TZ_F_legs_01
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: TZ_F_legs_02
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: TZ_F_legs_03
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: TZ_F_legs_04
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: TZ_F_legs_05
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: TZ_F_legs_06
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: TZ_F_legs_07
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: TZ_F_legs_08
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: TZ_F_legs_09
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: TZ_F_legs_10
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: TZ_F_legs_11
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: TZ_F_legs_12
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: TZ_F_legs_13
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: TZ_F_legs_14
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 3
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

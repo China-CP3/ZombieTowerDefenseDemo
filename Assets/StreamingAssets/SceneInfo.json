@@ -1,0 +1,5 @@
+[
+{"id":1,"imgRes":"imgScene/1","name":"疯狂树林","sceneName":"GameScene1","tips":"隐藏着巨大秘密的恐怖树林，你要当心了！","money":400,"towerHp":100},
+{"id":2,"imgRes":"imgScene/2","name":"极寒雪地","sceneName":"GameScene2","tips":"很快，你的心脏就会如同这冰雪一般寒冷。","money":400,"towerHp":100},
+{"id":3,"imgRes":"imgScene/3","name":"熔岩旱土","sceneName":"GameScene3","tips":"饥渴！人类对水的饥渴！它们，对你的饥渴！","money":400,"towerHp":100}
+]

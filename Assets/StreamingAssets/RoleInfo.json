@@ -1,0 +1,8 @@
+[
+{"id":1,"res":"Role/1","atk":2,"defaultWeapon":1,"type":1,"lockMoney":0,"tips":"刀哥","hitEff":"eff/1"},
+{"id":2,"res":"Role/2","atk":3,"defaultWeapon":2,"type":2,"lockMoney":20,"tips":"手枪战神","hitEff":"eff/1"},
+{"id":3,"res":"Role/3","atk":4,"defaultWeapon":3,"type":2,"lockMoney":30,"tips":"火箭筒扛把子","hitEff":"eff/1"},
+{"id":4,"res":"Role/4","atk":5,"defaultWeapon":4,"type":2,"lockMoney":40,"tips":"四川第一喷子","hitEff":"eff/1"},
+{"id":5,"res":"Role/5","atk":6,"defaultWeapon":5,"type":2,"lockMoney":50,"tips":"机枪哥","hitEff":"eff/1"},
+{"id":6,"res":"Role/6","atk":7,"defaultWeapon":6,"type":2,"lockMoney":60,"tips":"狙神","hitEff":"eff/1"}
+]
